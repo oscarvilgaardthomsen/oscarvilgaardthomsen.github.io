@@ -1,0 +1,36 @@
+#container {​
+
+    margin: 0 auto;​
+    width: 900px;​
+    background-color: rgb(23,76,34)
+  }
+
+#header {
+      background-color: rgb(92,181,157);
+      padding: 45px;
+
+}
+
+#information {
+      background-color: rgb(185,228,255);
+      padding: 50px;
+
+}
+
+#navigation {
+    background-color: rgb(54,263,75)
+}
+
+
+#backround {
+    color: rgb(0,100,0)
+    padding: 50px;
+}
+
+h1  {
+  color: rgb(255,0,0);
+}
+
+h2 {
+  color: rgb(223,110,86);
+}
